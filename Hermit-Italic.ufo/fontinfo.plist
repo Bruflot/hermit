@@ -40,7 +40,7 @@ with others.
 
 The OFL allows the licensed fonts to be used, studied, modified and
 redistributed freely as long as they are not sold by themselves. The
-fonts, including any derivative works, can be bundled, embedded, 
+fonts, including any derivative works, can be bundled, embedded,
 redistributed and/or sold with any software provided that any reserved
 names are not used by derivative works. The fonts and derivatives,
 however, cannot be released under any other type of license. The
@@ -128,7 +128,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Hermit</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
+	<string>Italic</string>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>750</integer>
 	<key>openTypeOS2TypoDescender</key>
@@ -166,7 +166,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
 		<integer>750</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Hermit-Regular</string>
+	<string>Hermit-Italic</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
@@ -185,7 +185,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Italic</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
